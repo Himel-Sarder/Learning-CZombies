@@ -3,20 +3,20 @@
 // Solidity-তে basic math operations অন্যান্য programming language এর মতোই:
 
 // Addition (যোগ)
-uint a = x + y;
+// uint a = x + y;
 
 // Subtraction (বিয়োগ)
-uint b = x - y;
+// uint b = x - y;
 
 // Multiplication (গুণ)
-uint c = x * y;
+// uint c = x * y;
 
 // Division (ভাগ)
-uint d = x / y;
+// uint d = x / y;
 
 // Modulus / Remainder (ভাগশেষ)
 // উদাহরণ: 13 % 5 = 3
-uint e = x % y;
+// uint e = x % y;
 
 // Exponential (power)
 // x ** y মানে x এর power y
